@@ -24,7 +24,6 @@ export default {
 
   methods:  {
     onkeypress (event) {
-      console.log({event})
       if (event.code === "KeyR") {
         this.$nuxt.$emit('ACT_RUN');
       }
