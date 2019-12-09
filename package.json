@@ -13,20 +13,20 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.0.0",
-    "bootstrap": "^4.3.1",
-    "bootstrap-vue": "^2.0.0-rc.20",
-    "cross-env": "^5.2.0",
-    "node-sass": "^4.11.0",
-    "nuxt": "^2.7.1",
-    "sass-loader": "^7.1.0",
+    "@nuxtjs/axios": "^5.8.0",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.1.0",
+    "cross-env": "^5.2.1",
+    "node-sass": "^4.13.0",
+    "nuxt": "^2.10.2",
+    "sass-loader": "^7.3.1",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
-    "nodemon": "^1.11.0",
     "babel-eslint": "^8.2.1",
     "eslint": "^5.0.1",
-    "eslint-loader": "^2.0.0",
-    "eslint-plugin-vue": "^4.0.0"
+    "eslint-loader": "^2.2.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "nodemon": "^1.19.4"
   }
 }
